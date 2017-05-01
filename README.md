@@ -1,25 +1,18 @@
-# ReduxSimpleStarter
+# React YouTube player
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Learn React by building a YouTube player
+Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)?
+
+![video_2017-05-01_223321](https://cloud.githubusercontent.com/assets/27403702/25582275/ec82cea0-2ebe-11e7-9163-579a7cb80405.gif)
+
+1. React native
+2. YouTube Search API
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
 > npm install
 > npm start
 ```
