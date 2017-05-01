@@ -12,8 +12,8 @@ Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)?
 ### Getting Started
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/johnliu8365/Learn_React_YouTube-player.git
+> cd Learn_React_YouTube-player
 > npm install
 > npm start
 ```
